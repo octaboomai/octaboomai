@@ -29,12 +29,12 @@ Multi-agent orchestration · Mixture-of-Experts · Swarm intelligence · Robotic
 
 | Project | What it does |
 |---------|-------------|
-| [SwarmAI](https://github.com/octaboomai/SwarmAI) | Hive Queen AI swarm engine — distributed multi-agent framework |
-| [forge](https://github.com/octaboomai/forge) | Multi-agent coding assistant with human approval gates, powered by Claude |
 | [VibeBot](https://github.com/octaboomai/VibeBot) | Live drone telemetry inside VS Code via MAVLink UDP |
 | [GearCodeAI](https://github.com/octaboomai/GearCodeAI) | AI coding assistant for ROS 2, embedded C++ & drone development |
+| [forge](https://github.com/octaboomai/forge) | Multi-agent coding assistant with human approval gates, powered by Claude |
+| [SwarmAI](https://github.com/octaboomai/SwarmAI) | Hive Queen AI swarm engine — distributed multi-agent framework |
 | [prahari](https://github.com/octaboomai/prahari) | CERT-In + DPDP breach compliance automation for Indian SMEs |
-| [data-catalyst](https://github.com/octaboomai/data-catalyst) | Data pipeline & analytics platform with API-first design |
+| [Maestro-OS](https://github.com/octaboomai/Maestro-OS) | One Streamlit app, two independent agent swarms — Apex OS & DealScout |
 
 ### 📈 GitHub stats
 
