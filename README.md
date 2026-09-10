@@ -4,9 +4,9 @@ I build multi-agent AI systems, robotics tools, and compliance automation — mo
 
 ### 🔭 Currently working on
 
-- **SwarmAI** — Hive Queen distributed multi-agent framework inspired by biological swarm intelligence
-- **forge** — Hierarchical multi-agent coding assistant (Planner → Coder → Tester → Reviewer) powered by Anthropic Claude
 - **VibeBot** — Live drone telemetry inside VS Code via MAVLink, without leaving your editor
+- **forge** — Hierarchical multi-agent coding assistant (Planner → Coder → Tester → Reviewer) powered by Anthropic Claude
+- **SwarmAI** — Hive Queen distributed multi-agent framework inspired by biological swarm intelligence
 - **prahari** — Breach compliance automation for Indian SMEs (CERT-In 6-hour + DPDP 72-hour dual-clock engine)
 
 ### 🧠 What I'm interested in
